@@ -1,0 +1,50 @@
+'''
+Docstring for array.two pointer.leetcode2149-Rearrange Array Elements by Sign
+Given an array nums of 2n integers, you need to rearrange the elements of nums such that the modified array follows the given conditions:
+1. Every consecutive pair of integers have opposite signs.
+2. For all integers with the same sign, the order in which they were present in nums
+is preserved.
+The rearranged array begins with a positive integer.
+Return the modified array after rearranging the elements to satisfy the aforementioned conditions.
+Example 1:
+Input: nums = [3,1,-2,-5,2,-4]
+Output: [3,-2,1,-5,2,-4]
+Explanation: The positive integers in nums are [3,1,2]. The negative integers are [-2,-5,-4]. The only possible rearrangement that satisfies all conditions is [3,-2,1,-5,2,-4].
+Example 2:
+Input: nums = [-1,1]
+Output: [1,-1]
+Explanation: 1 is the only integer that satisfies all conditions
+Constraints:
+
+1. 2 <= nums.length <= 2 * 10^5
+2. nums.length is even
+3. -100 <= nums[i] <= 100
+4. nums consists of equal number of positive and negative integers.
+        
+
+'''
+
+
+
+
+class Solution(object):
+    def rearrangeArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        n = len(nums)
+        result = [0] * n
+
+        positive = 0
+        negative = 1
+
+        for i in nums:
+            if i > 0:
+                result[positive] = i
+                positive += 2
+            else:
+                result[negative] = i
+                negative += 2
+
+        return result
