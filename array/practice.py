@@ -1,18 +1,24 @@
 class Solution(object):
-    def moveZeroes(self, nums):
+    def longestConsecutive(self, nums):
         """
         :type nums: List[int]
-        :rtype: None Do not return anything, modify nums in-place instead.
+        :rtype: int
         """
-        n1=len(nums)
-        nums=[x for x in nums if x != 0]
-        n2=len(nums)
-        zeros=n1-n2
-        i=0
-        while i < zeros:
-            nums.append(0)
-            i += 1
-        return nums
+        nums.sort()
+        print(nums)
+        first=nums[0]
+        output = 1
+        for i in nums[1:]:
+            first += 1
+            if first == i:
+                output += 1
+            # else:
+            #     first = i
+            #     output = 1
+
+        if output==1:
+            return 0
+        return output
 
 sol=Solution()
-print(sol.moveZeroes([0,1,0,3,12]))  # Output
+print(sol.longestConsecutive([100,4,200,1,3,2]))
