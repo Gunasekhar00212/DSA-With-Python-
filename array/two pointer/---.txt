@@ -1,0 +1,219 @@
+---
+
+
+---
+
+## **AI PROMPT TO RE-DESIGN THE PPT (WITH ORIGINAL CONTENT INCLUDED)**
+
+Create a PowerPoint presentation using the **exact content provided below, without changing a single word, definition, synonym, antonym, example, or snapshot.**
+This content must remain 100% identical because it comes from a mandatory dictionary source.
+
+### **DESIGN REQUIREMENTS**
+
+* Use a **completely different design** from the original PPT.
+* No floral designs or pink themes.
+* Use a **modern, clean, premium, professional style** with new colors, shapes, layouts, typography, and alignment.
+* Vary the layout on each slide (left-right, top-bottom, split layouts, boxed layouts, etc.).
+* Add consistent spacing and padding so text never touches borders.
+* Add minimalist icons or graphics that match the word meanings.
+* Create clear font hierarchy: large title → medium meaning → small bullet points.
+* Add section dividers groups (Words 1–5, 6–10, 11–15).
+* DO NOT rewrite, correct, paraphrase, or alter any content.
+
+### **CONTENT (USE EXACTLY AS GIVEN):**
+
+### **1. GRANDILOQUENT**
+
+Using lofty, extravagant, or pompous language to impress others — often more showy than meaningful.
+**SYNONYMS:** bombastic, pretentious, pompous
+**ANTONYMS:** simple, plainspoken, unpretentious
+**EXAMPLE:** The novel’s grandiloquent descriptions slowed down the story and felt unnecessarily ornate.
+**“The CEO’s grandiloquent presentation failed to convince the investors.”**
+
+---
+
+### **2. GREGARIOUS**
+
+Tending to associate with others of one’s kind; sociable
+**SYNONYMS:** Outgoing, Sociable, Friendly
+**ANTONYMS:** Introverted, Reserved, Reclusive
+**EXAMPLE:** She’s so gregarious that she makes friends everywhere she goes.
+**“The gregarious dog loved playing with every visitor who came to the house.”**
+
+---
+
+### **3. GUILELESS**
+
+free from any intent to deceive; honest
+**SYNONYMS:** Innocent, Sincere, Ingenuous
+**ANTONYMS:** Deceitful, Cunning, Artful
+**EXAMPLE:** “The child’s guileless smile revealed pure honesty and innocence.”
+**“He spoke in a guileless manner, making everyone trust him instantly.”**
+
+---
+
+### **SNAPSHOT:**
+
+"A grandiloquent coder may dazzle with words, but a gregarious and guileless engineer builds solutions that truly connect."
+
+---
+
+### **4. GULLIBLE**
+
+Easily duped or cheated; quick to believe something that is not true
+**SYNONYMS:** Naive, Unsuspecting, Credulous
+**ANTONYMS:** Skeptical, Wary, Suspicious
+**EXAMPLE:** Tourists were gullible, buying souvenirs at double the price without checking.
+**“Don’t be gullible; check the facts before believing rumors.”**
+
+---
+
+### **5. HARANGUE**
+
+a long, forceful speech often scolding or to deliver such a speech
+**SYNONYMS:** Tirade, Lecture, Diatribe
+**ANTONYMS:** Praise, Compliment, Eulogy
+**EXAMPLE:** “The manager’s harangue at the morning meeting demotivated the entire team.”
+**“The coach’s harangue after the loss left the players silent”.**
+
+---
+
+### **6. HOMOGENEOUS**
+
+composed of parts or elements that are all of the same kind
+**SYNONYMS:** Uniform, Identical, Consistent
+**ANTONYMS:** Diverse, Varied, Heterogeneous
+**EXAMPLE:** The company hired a homogeneous team to ensure everyone had similar expertise.
+**“A homogeneous culture can sometimes limit exposure to new ideas.”**
+
+---
+
+### **SNAPSHOT:**
+
+"A gullible developer listens to every harangue blindly, but a homogeneous team thinks critically and codes wisely."
+
+---
+
+### **7. HYPERBOLE**
+
+extravagant exaggeration used for emphasis or effect
+**SYNONYMS:** Exaggeration, Overstatement, Magnification
+**ANTONYMS:** Understatement, Minimization, Restraint
+**EXAMPLE:** Calling the movie “the best thing ever created in history” is an obvious hyperbole.
+**“Advertisements often rely on hyperbole to make products seem irresistible.”**
+
+---
+
+### **8. ICONOCLASTIC**
+
+attacking or rejecting traditional beliefs, practices, or institutions
+**SYNONYMS:** Radical, Rebellious, Unorthodox
+**ANTONYMS:** Conformist, Traditional, Conservative
+**EXAMPLE:** “Her iconoclastic leadership style rejected outdated traditions and inspired innovation.”
+**“The artist’s iconoclastic approach broke every traditional rule of painting.”**
+
+---
+
+### **9. IDOLATRY**
+
+extreme admiration, love, or devotion to someone or something.
+**SYNONYMS:** Worship, Adoration, Reverence
+**ANTONYMS:** Criticism, Disdain, Disapproval
+**EXAMPLE:** “The nation’s idolatry of wealth overshadowed compassion and justice.”
+**“The ancient culture’s idolatry of statues reflected their religious devotion.”**
+
+---
+
+### **SNAPSHOT:**
+
+“While hyperbole may exaggerate a project’s success, an iconoclastic engineer rejects the idolatry of outdated traditions, choosing innovation instead.”
+
+---
+
+### **10. IMMUTABLE**
+
+not capable of change; fixed
+**SYNONYMS:** Unchangeable, Permanent, Enduring
+**ANTONYMS:** Changeable, Flexible, Alterable
+**EXAMPLE:** “History is immutable; the past cannot be changed.”
+**“Human mortality is immutable, no matter how advanced medicine becomes.”**
+
+---
+
+### **11. IMPAIR**
+
+To diminish in function, ability, or quality; to weaken or make worse.
+**SYNONYMS:** damage, harm, injure
+**ANTONYMS:** enhance, fortify, boost
+**EXAMPLE:** Excessive alcohol consumption can impair liver function over time.
+**“Poor nutrition can impair a child’s growth and development.”**
+
+---
+
+### **12. IMPASSIVE**
+
+Giving no sign of feeling or emotion; expressionless.
+**SYNONYMS:** stoic, apathetic, phlegmatic
+**ANTONYMS:** emotional, expressive, passionate
+**EXAMPLE:** “Her impassive face gave no hint of the excitement she felt inside.”
+**“He remained impassive while receiving both praise and criticism.”**
+
+---
+
+### **SNAPSHOT:**
+
+"Some coding rules are immutable, but careless changes can impair systems; the impassive engineer stays focused under pressure."
+
+---
+
+### **13. IMPEDE**
+
+To interfere with the activity or progress of; to hinder.
+**SYNONYMS:** hinder, obstruct, hamper
+**ANTONYMS:** facilitate, assist, aid
+**EXAMPLE:** “Fear of failure should not impede you from pursuing your dreams.”
+**“Roadblocks and poor planning may impede emergency services.”**
+
+---
+
+### **14. IMPERMEABLE**
+
+Not permitting passage (as of a fluid) through its substance; impervious
+**SYNONYMS:** impenetrable, airtight, dense
+**ANTONYMS:** permeable, porous, absorbent
+**EXAMPLE:** The waterproof jacket is designed to be impermeable to rain.
+**“The container is impermeable, keeping the chemicals safely sealed.”**
+
+---
+
+### **15. IMPERTURBABLE**
+
+Marked by extreme calm, impassivity, and steadiness
+**SYNONYMS:** composed, unflappable, serene
+**ANTONYMS:** agitated, flustered, excitable
+**EXAMPLE:** “Despite the chaos around him, the leader remained imperturbable, guiding the team with steady assurance.”
+**“The scientist stayed imperturbable while defending his controversial findings.”**
+
+---
+
+### **SNAPSHOT:**
+
+"Bugs may impede progress, yet a software engineer with an impermeable mindset remains imperturbable, solving one challenge at a time."
+
+---
+
+## **OUTPUT**
+
+Generate a fully redesigned, modern, visually appealing PPT with new theme, new alignment, new layout, but identical text.
+
+---
+
+# ✅ Done!
+
+If you want, I can also:
+
+🔹 Generate **3 different prompt styles** (minimal, dark mode, corporate)
+🔹 Create the redesigned PPT **myself** and export as PDF or PPT
+🔹 Create flashcards or summaries from this content
+
+Just tell me!
